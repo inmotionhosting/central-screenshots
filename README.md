@@ -24,6 +24,14 @@ All screenshots are grouped by navigation context. `default.jpg` images are what
 
 ```
 .
+├── invitation
+│   ├── default.jpg
+│   ├── email-prompt.jpg
+│   ├── password-prompt.jpg
+│   ├── signed-in.jpg
+│   ├── acceptance-prompt.jpg
+│   └── acceptance-error.jpg
+│
 ├── sign-in
 │   ├── default.jpg
 │   ├── language-switcher.jpg
